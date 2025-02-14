@@ -58,3 +58,15 @@ The reason why INRR performs better:
 ![image](https://github.com/user-attachments/assets/52cf404c-3af4-440e-8476-1482e10b5dcc)
 
 ### 5. Lessons learnt:
+A learnable regularization with Dirichlet Energy (DE), which represented by a tiny INR. The tiny INR inputs the coordinate of image and output the laplace matrix, which can implicitly encode the implicit bias, smoothness, multi-scale self-similarity into the regularization. 
+
+I think it can be utilized in FWI, which can compare with classical regularization (e.g., TV and Tikhonov regularizations). And some experiments can be refered in INRs-based FWI methods.  
+
+
+
+
+
+
+
+
+
