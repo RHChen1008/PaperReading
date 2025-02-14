@@ -4,7 +4,6 @@
 ---
 | Paper Name |  Journal and year  | Author         | Unit  | Note link |
 |------------|--------------------|----------------|--------|------------|
-|Automatic differentiation in geophysical inverse problems  | Geophysics, 2007 |M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal |Australian National University, Canberra|               |
 |           |               |                 |         |               |
 |           |               |                 |         |               |
 
@@ -26,11 +25,12 @@
 |           |               |                 |         |               |
 |           |               |                 |         |               |
 
-## 4. Memory Management and Efficint Accelebration
+## 4. Automatic Differentiation
 ---
 
 | Paper Name |  Journal and year  | Author         | State  | Note link |
 |------------|--------------------|----------------|--------|------------|
+|Automatic differentiation in geophysical inverse problems  | Geophysics, 2007 |M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal |Australian National University, Canberra|               |
 |           |               |                 |         |               |
 |           |               |                 |         |               |
 |           |               |                 |         |               |
