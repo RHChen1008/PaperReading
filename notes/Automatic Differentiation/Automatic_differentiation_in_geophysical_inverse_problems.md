@@ -20,7 +20,9 @@ Automatic differentiation (AD) is a method for computing the derivatives of func
 
 2. Reverse mode: With a single reverse sweep through the code list the derivatives of an output variable with respect to all input variables are available. The whole procedure must be repeated for every output variable, and hence a major advantage of the reverse mode is that the computational cost of evaluating the derivatives is proportional to the number of output variables m (multiplied by the length of the code list) rather than the number of input variables
 
-<img width="271" alt="image" src="https://github.com/user-attachments/assets/0125f744-6547-4d8a-905b-41a08b9d95bc" />
+![image](https://github.com/user-attachments/assets/8157b212-034e-4ce3-b40c-80a431dfc8fd)
+
+
 1. Fig. 4(a) shows the ‘recalculate all’ strategy whereby the source code is restarted from the beginning each time the state changes
 2. A second strategy is to store the complete values of all intermediate variables at every state, illustrated by Fig. 4(b).
 3. A compromise between the two extremes is a checkpointing strategy, illustrated by Fig. 4(c). 
