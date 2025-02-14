@@ -3,16 +3,14 @@
 
 ### 2. Problem to solve:
 
-从多个角度表示梯度/导数计算的重要性，例如正向建模结果相对于输入变量的灵敏性分析；地球物理数据的反演优化问题(特别是当未知参数较大且关系非线性时，梯度计算难度较大)；人工推导时间成本和工程代码编写以及debug的成本较大，灵活性较差(条件变化需要重新进行解析式或数值式的推导)，此外数值解还需要平衡准确性和近似网格大小。从这三个角度得到一个理想的微分方法能够实现：
+The computation of gradients/derivatives holds paramount significance across various scientific and engineering domains. From the perspective of sensitivity analysis in forward modeling, gradients provide a quantitative measure of how model outputs respond to perturbations in input variables. This sensitivity information is crucial for understanding model behavior, optimizing model parameters, and assessing uncertainties. In the context of geophysical data inversion, particularly when dealing with a large number of unknown parameters and highly nonlinear relationships, the computation of gradients becomes exceedingly challenging. Traditional methods often struggle to balance accuracy and computational efficiency, especially when the complexity of the problem increases. Moreover, manual derivation of gradients is not only time-consuming but also prone to errors, especially when the underlying equations are intricate. The process of translating these derivations into engineering code and debugging them further exacerbates the problem. This approach lacks flexibility, as any changes in conditions necessitate a complete re-derivation of analytical or numerical solutions. Additionally, numerical methods for gradient computation require a delicate balance between accuracy and grid resolution, which can significantly impact computational costs. 
 
-1. 计算精确的梯度
-2. 与输入变量相独立，降低计算负担
-3. 降低人工推导和计算的成本
+An ideal differential method would address these challenges by providing accurate and efficient gradient computation, and enabling efficient optimization in complex geophysical inversion problems. It should also streamline the process of code implementation and debugging, thereby reducing time and resource expenditure while enhancing flexibility and adaptability to changing conditions
    
 ### 3. Major contribution:
-自动微分技术可以满足上面三个要求，但是其在地球科学中的应用影响力较低。本文的目的是将自动微分技术进一步在地球科学研究社区中推广，简要阐述了该方法的基本理论并列举了三个地球科学领域问题的自动微分实践案例
+Automatic Differentiation technique can satisfy these three requirments, but to date (2007) AD seem to have made little impact on the Geosciences. The purpose of this paper is to help bring AD tools to the attention of the wider geoscience community, provide some useful references and illustrate its potential through a series of numerical experiments on common geoscience problems.
 
-### 4. Experiment results:
+### 4. Theory and Experiment results:
 
 
 
