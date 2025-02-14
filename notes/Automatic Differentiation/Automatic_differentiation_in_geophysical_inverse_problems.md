@@ -2,7 +2,8 @@
 Automatic differentiation in geophysical inverse problems, Geophysics, 2007
 ![Uploading image.png…]()
 ### 2. Author:
-M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal<\br>
+M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal
+
 Research School of Earth Sciences, Australian National University, Canberra, ACT 0200, Australia. E-mail. malcolm.sambridge@anu.edu.au
 
 ### 3. Problem to solve:
