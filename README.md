@@ -2,9 +2,9 @@
 
 ## 1. Full Waveform Inversion
 ---
-| Paper Name |  Journal and year  | Author         | State  | Note link |
+| Paper Name |  Journal and year  | Author         | Unit  | Note link |
 |------------|--------------------|----------------|--------|------------|
-|           |               |                 |         |               |
+|Automatic differentiation in geophysical inverse problems  | Geophysics, 2007 |M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal |Australian National University, Canberra|               |
 |           |               |                 |         |               |
 |           |               |                 |         |               |
 
