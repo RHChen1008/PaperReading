@@ -30,7 +30,7 @@
 
 | Paper Name |  Journal and year  | Author         | State  | Note link |
 |------------|--------------------|----------------|--------|------------|
-|Automatic differentiation in geophysical inverse problems  | Geophysics, 2007 |M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal |Australian National University, Canberra| [note](notes/Automatic Differentiation/Automatic_differentiation_in_geophysical_inverse_problems.md)|
+|Automatic differentiation in geophysical inverse problems  | Geophysics, 2007 |M. Sambridge, P. Rickwood, N. Rawlinson and S.Sommacal |Australian National University, Canberra| [2025-02-14-note](https://github.com/RHChen1008/PaperReading/blob/main/notes/Automatic%20Differentiation/Automatic_differentiation_in_geophysical_inverse_problems.md)|
 |           |               |                 |         |               |
 |           |               |                 |         |               |
 |           |               |                 |         |               |
