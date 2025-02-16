@@ -13,7 +13,7 @@
 | Paper Name |  Journal and year  | Author         | Unit  | Note link |
 |------------|--------------------|----------------|--------|------------|
 |  RHINO: Regularizing the Hash-based Implicit Neural Representation  |  arXiv, 2023 |  Hao Zhu∗ · Fengyi Liu∗ · Qi Zhang · XunCao · ZhanMa |School of Electronic Science and Engineering, Nanjing University,Nanjing, 210023, China    |         |               
-| Regularize implicit neural representation by itself|CVPR,2022 | Zhemin Li1 Hongxia Wang*1 Deyu Meng2,3  |1 National University of Defense Technology 2 Xi’an Jiaotong University 3 Macau University of Science and Technology    |              |
+| Regularize implicit neural representation by itself|CVPR,2022 | Zhemin Li1 Hongxia Wang*1 Deyu Meng2,3  |1 National University of Defense Technology 2 Xi’an Jiaotong University 3 Macau University of Science and Technology    |   [2025-02-14](https://github.com/RHChen1008/PaperReading/blob/main/notes/Implicit%20Neural%20Representation/Regularize%20implicit%20neural%20representation%20by%20itself.md)           |
 |           |               |                 |         |               |
 
 ## 3. Neural Operator and Physical Informed Neural Netwotks
